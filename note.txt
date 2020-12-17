@@ -2,12 +2,12 @@
 
 <Student>
 Username: Any
-Password: Any
+Password: None
 
 <Enrolled Student>
 Username: 201811080
-Password: Any
+Password: None
 
 <Admin>
 Username: admin
-Password: Any
+Password: None
